@@ -1,0 +1,88 @@
+export const TASKS = [
+  {
+    id: 't1',
+    userId: 'u1',
+    title: 'Master Angular',
+    summary:
+      'Learn all the basic and advanced features of Angular & how to apply them.',
+    dueDate: '2025-12-31',
+  },
+  {
+    id: 't2',
+    userId: 'u3',
+    title: 'Build first prototype',
+    summary: 'Build a first prototype of the online shop website',
+    dueDate: '2024-05-31',
+  },
+  {
+    id: 't3',
+    userId: 'u3',
+    title: 'Prepare issue template',
+    summary:
+      'Prepare and describe an issue template which will help with project management',
+    dueDate: '2024-06-15',
+  },
+  {
+    id: 't4',
+    userId: 'u2',
+    title: 'Design database schema',
+    summary: 'Design the database schema for the new project',
+    dueDate: '2024-07-01',
+  },
+  {
+    id: 't5',
+    userId: 'u4',
+    title: 'Implement authentication',
+    summary: 'Implement user authentication and authorization',
+    dueDate: '2024-08-15',
+  },
+  {
+    id: 't6',
+    userId: 'u5',
+    title: 'Set up CI/CD pipeline',
+    summary: 'Set up continuous integration and continuous deployment pipeline',
+    dueDate: '2024-09-10',
+  },
+  {
+    id: 't7',
+    userId: 'u6',
+    title: 'Write unit tests',
+    summary: 'Write unit tests for the existing codebase',
+    dueDate: '2024-10-05',
+  },
+  {
+    id: 't8',
+    userId: 'u1',
+    title: 'Optimize performance',
+    summary: 'Optimize the performance of the application',
+    dueDate: '2024-11-20',
+  },
+  {
+    id: 't9',
+    userId: 'u2',
+    title: 'Refactor codebase',
+    summary: 'Refactor the codebase to improve readability and maintainability',
+    dueDate: '2024-12-15',
+  },
+  {
+    id: 't10',
+    userId: 'u4',
+    title: 'Update documentation',
+    summary: 'Update the project documentation to reflect recent changes',
+    dueDate: '2025-01-10',
+  },
+  {
+    id: 't11',
+    userId: 'u5',
+    title: 'Conduct user testing',
+    summary: 'Conduct user testing to gather feedback on the new features',
+    dueDate: '2025-02-25',
+  },
+  {
+    id: 't12',
+    userId: 'u6',
+    title: 'Deploy to production',
+    summary: 'Deploy the latest version of the application to production',
+    dueDate: '2025-03-30',
+  },
+];
